@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "app_name": "PAK CLUB HACK",
+    "pkg_name": "com.pakclub.game",
+    "whatsapp_link": "https://whatsapp.com/channel/0029VbCNMrR1XquXO0G7Sy0G",
+    "refer_link": "https://pakclub.win/register?inviteCode=6BYETVN&from=web",
+    "app_logo": "https://github.com/rexbeotrader/PakClubGameImage/raw/refs/heads/main/pcicon.png",
+    "app_version": "1.0.0",
+    "app_status": "active",
+    "min_version": "1.0.0",
+    "force_update": false,
+    "update_url": "",
+    "description": "",
+    "notification": {
+      "title": "",
+      "body": "",
+      "image": "",
+      "url": ""
+    },
+    "popup": {
+      "enabled": false,
+      "title": "",
+      "message": "",
+      "button_text": "OK",
+      "button_url": "",
+      "image": ""
+    },
+    "ads": {
+      "enabled": false,
+      "network": "none",
+      "interstitial_id": "",
+      "banner_id": "",
+      "rewarded_id": "",
+      "native_id": ""
+    },
+    "custom_data": null,
+    "whatsapp_support": "",
+    "deposit_link": "https://pakclub.win/wallet/recharge",
+    "home_url": "https://pakclub.win",
+    "panel_base_url": "https://jeeto.fun/RakhaGmer/p.php",
+    "allowed_login_phones": "2255145139,2222311222,3307644395,3324164499,3032514789,3456778910,3421357893,2222311223,9235684587",
+    "audios": []
+  },
+  "timestamp": 1795686724
+}
